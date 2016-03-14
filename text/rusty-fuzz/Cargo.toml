@@ -1,0 +1,6 @@
+[package]
+name = "rusty-fuzz"
+version = "0.1.0"
+authors = ["Noah <nbaltunian@gmail.com>"]
+
+[dependencies]
